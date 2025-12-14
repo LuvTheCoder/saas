@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import infraImg from "../assets/IT-infrastructure.png";
+import infraImg from "../assets/IT-Infrastructure.png";
 import securityImg from "../assets/security.png";
 import cloudImg from "../assets/cloud.png";
 import appImg from "../assets/application.png";
