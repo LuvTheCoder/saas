@@ -159,8 +159,8 @@ function FeaturedProducts() {
 
               <p className="mt-4 text-gray-300 text-sm sm:text-lg leading-relaxed">
                 Our next-generation Asset Management Solution manages the
-                complete asset lifecycle — from acquisition and depreciation
-                to revaluation and disposal — with seamless accounting
+                complete asset lifecycle from acquisition and depreciation
+                to revaluation and disposal  with seamless accounting
                 integration.
               </p>
 

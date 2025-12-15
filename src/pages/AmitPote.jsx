@@ -56,7 +56,7 @@ function AmitPote() {
               </h1>
 
               <p className="mt-2 text-gray-400 tracking-wide">
-                Director – Business & Strategy
+                Director - Business & Strategy
               </p>
 
               {/* Socials */}
@@ -72,7 +72,7 @@ function AmitPote() {
               {/* Bio */}
               <div className="mt-6 space-y-5 text-gray-300 text-sm sm:text-base leading-relaxed">
                 <p>
-                  Amit is the Director – Sales & Strategy and is responsible
+                  Amit is the Director - Sales & Strategy and is responsible
                   for bringing strategic changes required in business.
                   He holds a Bachelor’s degree in Technology and a Master’s
                   degree in Administration.

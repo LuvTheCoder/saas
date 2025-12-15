@@ -83,7 +83,7 @@ function About() {
                 modernized integration to address the changing outlook of the
                 digital space. We are one of the most promising and innovative
                 system integration partners to 100+ clients during their
-                transformation journey — enabling them to become digital
+                transformation journey, enabling them to become digital
                 predators rather than digital prey.
               </p>
 

@@ -82,8 +82,7 @@ function Hero() {
               variants={item}
               className="mt-4 sm:mt-6 text-sm sm:text-lg lg:text-xl text-gray-300"
             >
-              We design and develop reliable software solutions that help
-              businesses grow, innovate, and lead in the digital era.
+              We Bridge the Gap between Customer Pain Points & Best Suited Solution
             </motion.p>
 
             <motion.div
