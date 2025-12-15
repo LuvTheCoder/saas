@@ -201,8 +201,7 @@ function About() {
               <p className="mt-1 text-sm text-gray-400">Founder</p>
 
               <p className="mt-3 text-gray-400 text-sm">
-                Visionary leader driving innovation and strategic direction
-                across enterprise integration initiatives...
+                Ashish is the Founder & CEO of SAAS Infosolutions. He is responsible for overall Leadership & Management of the company...
               </p>
 
               <div className="mt-4 flex justify-center gap-4 text-gray-400">
@@ -229,8 +228,7 @@ function About() {
               <p className="mt-1 text-sm text-gray-400">Director</p>
 
               <p className="mt-3 text-gray-400 text-sm">
-                Driving operational excellence and delivering scalable,
-                value-focused solutions to enterprise clients...
+                Amit is the Director-Sales & Strategy & is responsible for bringing strategies changes required in business...
               </p>
 
               <div className="mt-4 flex justify-center gap-4 text-gray-400">

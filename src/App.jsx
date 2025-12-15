@@ -4,15 +4,23 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import FeaturedProducts from "./pages/FeaturedProducts";
 import Contact from "./pages/Contact";
+import NotFound from "./pages/NotFound";
+import ScrollToTop from "./components/ScrollToTop";
+import AmitPote from "./pages/AmitPote";
+import AshishChunne from "./pages/AshishChunne";
 
 function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop/>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About/>} />
         <Route path="/featured-products" element={<FeaturedProducts/>}/>
         <Route path="/contact" element={<Contact/>}></Route>
+        <Route path="*" element={<NotFound />} />
+        <Route path="/member/ashish-chunne" element={<AshishChunne />} />
+        <Route path="/member/amit-pote" element={<AmitPote />} />
       </Routes>
     </BrowserRouter>
   );
