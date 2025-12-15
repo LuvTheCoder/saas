@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import { Link } from "react-router-dom";
 
 /* ================= ANIMATION VARIANTS ================= */
 
@@ -38,7 +39,7 @@ function CTA() {
         className="px-6 py-2 rounded-md bg-white text-black
                    font-medium hover:bg-gray-200 transition"
       >
-        Request Demo
+        <Link to="/contact">Request Demo</Link>
       </button>
     </motion.div>
   );
